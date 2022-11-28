@@ -1,4 +1,4 @@
-# assignment6
+# Useful Terminal Commands
 
 ### Welcome to the assignment6 wiki!
 
